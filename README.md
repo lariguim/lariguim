@@ -8,7 +8,7 @@
 
 ### Sobre mim ⤵️
 Com uma abordagem multidisciplinar, combino experiência de cientista e engenheira de dados para impulsionar o crescimento e a eficiência das empresas. 
-Desenvolvo algoritmos de machine learning e pipelines de análise robustos e eficientes, capacitando empresas a tomar decisões estratégicas. Com foco em resultados tangíveis, colaboro diretamente com lideranças estratégicas para transformar problemas complexos em soluções inteligentes.
+Desenvolvo algoritmos de machine learning, produtos de dados e pipelines de análise robustos e eficientes, capacitando empresas a tomar decisões estratégicas. Com foco em resultados tangíveis, colaboro diretamente com lideranças estratégicas para transformar problemas complexos em soluções inteligentes.
 
 Carrego visão de negócio e coordeno equipes multifuncionais que promovem inovação e excelência técnica. 
 

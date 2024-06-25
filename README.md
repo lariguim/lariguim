@@ -1,6 +1,6 @@
 ## Seja bem vindo (a) ! 👋
 
-### 👽 Larissa Teodoro
+### 🎓 Me chamo Larissa Teodoro
 
 :computer: Cientista de Dados | Engenheira de dados | DataOps | Problem Solver
 
@@ -11,6 +11,8 @@ Com uma abordagem multidisciplinar, combino experiência cientista e engenheira 
 Desenvolvi pipelines de análise robustos e eficientes, capacitando empresas a tomar decisões estratégicas. Carrego uma visão estratégica e coordeno equipes multifuncionais, promovendo inovação e excelência técnica. 
 
 
+ 
+📬 email: larissa.gteodoro@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lariguim)](LINK_GIT)
 

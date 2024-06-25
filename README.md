@@ -1,7 +1,7 @@
 ## Seja bem vindo (a) ! 👋
 
-### 🎓 Me chamo Larissa Teodoro
 
+### Me chamo Larissa Teodoro 🎓
 :computer: Cientista de Dados | Engenheira de dados | DataOps | Problem Solver
 
 

@@ -16,9 +16,9 @@ Carrego visão de negócio e coordeno equipes multifuncionais que promovem inova
  
 📬 email: larissa.gteodoro@gmail.com
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lariguim)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lariguim)](https://github.com/lariguim)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissateodoro1/)](LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissateodoro1/)](https://www.linkedin.com/in/larissateodoro1/)
 
 
  

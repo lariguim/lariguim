@@ -2,7 +2,7 @@
 
 ## Me chamo Larissa Teodoro
 
-:computer: Sou cientista de Dados | Engenheira de dados | DataOps
+:computer: Cientista de Dados | Engenheira de dados | DataOps | Problem Solver
 
 ## Sobre mim
 Com uma abordagem multidisciplinar, combino experiência cientista e engenheira de dados para impulsionar o crescimento e a eficiência das empresas. 

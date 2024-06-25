@@ -7,8 +7,8 @@
 
 
 ### Sobre mim ⤵️
-Com uma abordagem multidisciplinar, combino experiência cientista e engenheira de dados para impulsionar o crescimento e a eficiência das empresas. 
-Desenvolvi pipelines de análise robustos e eficientes, capacitando empresas a tomar decisões estratégicas. Carrego uma visão estratégica e coordeno equipes multifuncionais, promovendo inovação e excelência técnica. 
+Com uma abordagem multidisciplinar, combino experiência de cientista e engenheira de dados para impulsionar o crescimento e a eficiência das empresas. 
+Desenvolvo algoritmos de machine learning e pipelines de análise robustos e eficientes, capacitando empresas a tomar decisões estratégicas. Carrego uma visão estratégica e coordeno equipes multifuncionais, promovendo inovação e excelência técnica. 
 
 
  
